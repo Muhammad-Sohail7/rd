@@ -12,6 +12,7 @@ function App() {
         </p>
         <h1>Memon Just Wait</h1>
         <h2>Be patient</h2>
+        <h1>Champion</h1>
         <a
           className="App-link"
           href="https://reactjs.org"
